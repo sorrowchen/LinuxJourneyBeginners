@@ -1,5 +1,9 @@
-- 目前当老师
+- 目前是厦门微思网络RHCE讲师
 - 纯兴趣
 - 帮助大家快速学习Linux
 - 分享我在Linux筑基方面的一些知识
 - 不排除知识存在超纲部分
+- 教学环境基于RHEL9.x, 安装语言为中文, NAT, 172.25.254.0/24
+- .mm文件为freeplane脑图
+- ssh工具: MobaXterm
+- 虚拟机: Vmware Workstation 17pro
