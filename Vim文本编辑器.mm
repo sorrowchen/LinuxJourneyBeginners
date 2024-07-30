@@ -95,7 +95,6 @@
     x
   </body>
 </html>
-
 </richcontent>
 </node>
 </node>
@@ -109,7 +108,6 @@
     删除光标前的字符
   </body>
 </html>
-
 </richcontent>
 <node ID="ID_467128973" CREATED="1722224817756" MODIFIED="1722224817756"><richcontent TYPE="NODE">
 
@@ -121,7 +119,6 @@
     X
   </body>
 </html>
-
 </richcontent>
 </node>
 </node>
@@ -136,7 +133,6 @@
     dd
   </body>
 </html>
-
 </richcontent>
 </node>
 </node>
@@ -151,7 +147,6 @@
     dw
   </body>
 </html>
-
 </richcontent>
 </node>
 </node>
@@ -166,7 +161,6 @@
     d$
   </body>
 </html>
-
 </richcontent>
 </node>
 </node>
@@ -184,7 +178,6 @@
     dG
   </body>
 </html>
-
 </richcontent>
 </node>
 </node>
@@ -204,7 +197,6 @@
     在光标前插入“Hello”
   </body>
 </html>
-
 </richcontent>
 <node ID="ID_1396773493" CREATED="1722224736949" MODIFIED="1722224736949"><richcontent TYPE="NODE">
 
@@ -216,7 +208,6 @@
     iHello&lt;ESC&gt;
   </body>
 </html>
-
 </richcontent>
 </node>
 </node>
@@ -230,7 +221,6 @@
     在行首插入“Hello”
   </body>
 </html>
-
 </richcontent>
 <node ID="ID_1471551559" CREATED="1722224741706" MODIFIED="1722224741706"><richcontent TYPE="NODE">
 
@@ -242,7 +232,6 @@
     IHello&lt;ESC&gt;
   </body>
 </html>
-
 </richcontent>
 </node>
 </node>
@@ -256,7 +245,6 @@
     在光标后插入“World”
   </body>
 </html>
-
 </richcontent>
 <node ID="ID_1514509440" CREATED="1722224745826" MODIFIED="1722224745826"><richcontent TYPE="NODE">
 
@@ -268,7 +256,6 @@
     aWorld&lt;ESC&gt;
   </body>
 </html>
-
 </richcontent>
 </node>
 </node>
@@ -282,7 +269,6 @@
     在行末插入“!”
   </body>
 </html>
-
 </richcontent>
 <node ID="ID_946792896" CREATED="1722224753050" MODIFIED="1722224753050"><richcontent TYPE="NODE">
 
@@ -294,7 +280,6 @@
     A!&lt;ESC&gt;
   </body>
 </html>
-
 </richcontent>
 </node>
 </node>
@@ -308,7 +293,6 @@
     在当前行下面新建一行并插入“New Line”
   </body>
 </html>
-
 </richcontent>
 <node ID="ID_101989670" CREATED="1722224758158" MODIFIED="1722224758158"><richcontent TYPE="NODE">
 
@@ -320,7 +304,6 @@
     oNew Line&lt;ESC&gt;
   </body>
 </html>
-
 </richcontent>
 </node>
 </node>
@@ -334,7 +317,6 @@
     在当前行上面新建一行并插入“Previous Line”
   </body>
 </html>
-
 </richcontent>
 <node ID="ID_1510707250" CREATED="1722224764113" MODIFIED="1722224764113"><richcontent TYPE="NODE">
 
@@ -346,7 +328,6 @@
     OPrevious Line&lt;ESC&gt;
   </body>
 </html>
-
 </richcontent>
 </node>
 </node>
@@ -366,7 +347,6 @@
     向下查找匹配的模式
   </body>
 </html>
-
 </richcontent>
 <node ID="ID_1073182224" CREATED="1722225066895" MODIFIED="1722225066895"><richcontent TYPE="NODE">
 
@@ -378,7 +358,6 @@
     /pattern
   </body>
 </html>
-
 </richcontent>
 </node>
 </node>
@@ -392,7 +371,6 @@
     向上查找匹配的模式
   </body>
 </html>
-
 </richcontent>
 <node ID="ID_614026757" CREATED="1722225071419" MODIFIED="1722225071419"><richcontent TYPE="NODE">
 
@@ -404,7 +382,6 @@
     ?pattern
   </body>
 </html>
-
 </richcontent>
 </node>
 </node>
@@ -418,7 +395,6 @@
     跳转到下一个匹配项
   </body>
 </html>
-
 </richcontent>
 <node ID="ID_403998823" CREATED="1722225074991" MODIFIED="1722225074991"><richcontent TYPE="NODE">
 
@@ -430,7 +406,6 @@
     n
   </body>
 </html>
-
 </richcontent>
 </node>
 </node>
@@ -444,7 +419,6 @@
     跳转到上一个匹配项
   </body>
 </html>
-
 </richcontent>
 <node ID="ID_1985991806" CREATED="1722225079797" MODIFIED="1722225079797"><richcontent TYPE="NODE">
 
@@ -456,7 +430,6 @@
     跳转到上一个匹配项
   </body>
 </html>
-
 </richcontent>
 </node>
 </node>
@@ -470,7 +443,6 @@
     查找光标下单词的下一个匹配项
   </body>
 </html>
-
 </richcontent>
 <node ID="ID_304909424" CREATED="1722225084728" MODIFIED="1722225084728"><richcontent TYPE="NODE">
 
@@ -482,7 +454,6 @@
     查找光标下单词的下一个匹配项
   </body>
 </html>
-
 </richcontent>
 </node>
 </node>
@@ -496,7 +467,6 @@
     查找光标下单词的上一个匹配项
   </body>
 </html>
-
 </richcontent>
 <node ID="ID_1153881783" CREATED="1722225090080" MODIFIED="1722225090080"><richcontent TYPE="NODE">
 
@@ -508,7 +478,6 @@
     查找光标下单词的上一个匹配项
   </body>
 </html>
-
 </richcontent>
 </node>
 </node>
@@ -533,7 +502,6 @@
     替换光标下的字符
   </body>
 </html>
-
 </richcontent>
 <node ID="ID_1846491221" CREATED="1722224998375" MODIFIED="1722224998375"><richcontent TYPE="NODE">
 
@@ -545,7 +513,6 @@
     r
   </body>
 </html>
-
 </richcontent>
 </node>
 </node>
@@ -559,7 +526,6 @@
     进入替换模式
   </body>
 </html>
-
 </richcontent>
 <node ID="ID_825817980" CREATED="1722225002424" MODIFIED="1722225002424"><richcontent TYPE="NODE">
 
@@ -571,7 +537,6 @@
     R
   </body>
 </html>
-
 </richcontent>
 </node>
 </node>
@@ -586,7 +551,6 @@
     c
   </body>
 </html>
-
 </richcontent>
 </node>
 </node>
@@ -600,7 +564,6 @@
     删除整行并进入插入模式
   </body>
 </html>
-
 </richcontent>
 <node ID="ID_1036856819" CREATED="1722225010711" MODIFIED="1722225010711"><richcontent TYPE="NODE">
 
@@ -612,7 +575,6 @@
     cc
   </body>
 </html>
-
 </richcontent>
 </node>
 </node>
@@ -626,7 +588,6 @@
     删除光标下的字符并进入插入模式
   </body>
 </html>
-
 </richcontent>
 <node ID="ID_641426549" CREATED="1722225014302" MODIFIED="1722225014302"><richcontent TYPE="NODE">
 
@@ -638,7 +599,6 @@
     s
   </body>
 </html>
-
 </richcontent>
 </node>
 </node>
@@ -652,7 +612,6 @@
     删除整行并进入插入模式
   </body>
 </html>
-
 </richcontent>
 <node ID="ID_1533449044" CREATED="1722225018163" MODIFIED="1722225018163"><richcontent TYPE="NODE">
 
@@ -664,7 +623,6 @@
     S
   </body>
 </html>
-
 </richcontent>
 </node>
 </node>
@@ -676,10 +634,10 @@
 <node TEXT="移动" POSITION="top_or_left" ID="ID_46014473" CREATED="1722225253417" MODIFIED="1722225270139">
 <node TEXT="普通模式" ID="ID_1503529304" CREATED="1722225949087" MODIFIED="1722225996303">
 <node TEXT="光标向上移动一行" ID="ID_787010943" CREATED="1722225503202" MODIFIED="1722225573897">
-<node TEXT="j" ID="ID_1988852144" CREATED="1722225522488" MODIFIED="1722225527423"/>
+<node TEXT="k" ID="ID_1988852144" CREATED="1722225522488" MODIFIED="1722300656565"/>
 </node>
 <node TEXT="光标向下移动一行" ID="ID_968232553" CREATED="1722225503951" MODIFIED="1722225580044">
-<node TEXT="k" ID="ID_940636420" CREATED="1722225529080" MODIFIED="1722225532402"/>
+<node TEXT="j" ID="ID_940636420" CREATED="1722225529080" MODIFIED="1722300658781"/>
 </node>
 <node TEXT="光标向左移动一列" ID="ID_1338175620" CREATED="1722225504590" MODIFIED="1722225608428">
 <node TEXT="h" ID="ID_825349789" CREATED="1722225533914" MODIFIED="1722225538144"/>
